@@ -8,14 +8,11 @@
 분석 목적
 - 폐기물 처리 현황을 분석함으로써 폐기물 관리의 효율성을 높이고, 지속 가능한 자원순환 도시로 발전할 수 있는 전략을 수립하고자 함 
 
-![image](https://github.com/user-attachments/assets/dad718e9-c167-48b7-b4ba-00d91a8763f9)
-
-![image](https://github.com/user-attachments/assets/760b3cab-341a-40a9-99ca-94aa45d97486)
+사용데이터
+- 전국 폐기물 발생 및 처리현황 오픈데이터
 
 
 분석결과
+- 폐기물 처리 과정 중 재활용 과정에 대한 분석
 - 소각 시설의 총 효율에 미치는 요소 분석
-![image](https://github.com/user-attachments/assets/3f6e863b-c1ad-476b-badb-59e2c9965c5d)
-
 - 폐기물 발생량과 매립비율 사이의 상관계수 분석
-![image](https://github.com/user-attachments/assets/921e8e1f-b0fb-4dd8-98ff-4107e79e50fb)
