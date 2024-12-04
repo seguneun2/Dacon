@@ -17,15 +17,23 @@ Correlation 계수 : 최종 매립 및 에너지 회수에 영향을 주는 폐�
 
 **분석결과**
 - 폐기물 처리 과정 중 재활용 과정에 대한 분석
+- 
 ![image](https://github.com/user-attachments/assets/93b919a5-1dee-4ddb-91d0-7672ca8320b9)
 
+
 - 소각 시설의 총 효율에 미치는 요소 분석
+- 
 ![image](https://github.com/user-attachments/assets/9f3abdbb-5d87-4c49-97c3-c7c51b4434eb)
 
+
 - 폐기물 발생량과 매립비율 사이의 상관계수 분석
+- 
 ![image](https://github.com/user-attachments/assets/f4cb9b41-fbdc-4022-975b-f5eacf3d2b2f)
 
-- 폐기물 발생량과 에너지 회수 사이의 상관계수 분ㅅ거
+
+- 폐기물 발생량과 에너지 회수 사이의 상관계수 분석
+- 
 ![image](https://github.com/user-attachments/assets/82eab06b-c619-4e2b-94b7-a4b5ee16c7f1)
+
 
 - 자세한 내용은 발표자료 참고
